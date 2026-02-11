@@ -44,5 +44,3 @@ O repositório inclui:
 - Código em R
 - Working paper
 ---
-**Leonardo Moog**  
-Economista | Inferência Causal | Avaliação de Políticas Públicas
